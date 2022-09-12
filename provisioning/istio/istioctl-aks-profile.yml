@@ -1,5 +1,5 @@
 # istioctl profile dump default
-#
+# istioctl install -f istioctl-aks-profile.yml
 apiVersion: install.istio.io/v1alpha1
 kind: IstioOperator
 spec:
